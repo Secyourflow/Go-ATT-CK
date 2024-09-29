@@ -1,3 +1,3 @@
-module github.com/Secyourflow/Go-ATT-CK
+module github.com/Secyourflow/attck
 
 go 1.23.1
